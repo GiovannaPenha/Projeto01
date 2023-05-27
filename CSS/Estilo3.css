@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(255, 255, 255), 255;
+    margin: 0;
+    padding: 0;
+}
+.e2{
+    width: 800px;
+    height: 60px;
+    background-color: bisque;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    display: flex;
+}
+.e3{
+    width: 200px;
+    height: 60px;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.f1{
+    color: #d0dbda;
+}
+.e4{
+    width: 800px;
+    height: 100px;
+    background-color: #7d150b;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.e5{
+    width: 800px;
+    height: 300px;
+    background-color: #7d150b;
+    margin: auto;
+}
+.e6{
+    width: 800px;
+    height: 308px;
+    background-color: #7d150b;
+      display: flex;
+
+}
+.e7{
+    width: 250px;
+    height: 90px;
+    background-color: #7d150b;
+    color: #d0dbda;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+ margin-left: 200px;
+ margin-top: 40px;
+
+    margin-right: 80px;
+}
+.f2{
+    width: 90px;
+    height: px;
+    color: black;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: auto;
+}
+.t1{
+    width: 180px;
+    height: 180px;
+    background-color: #b89895;
+    color: #d0dbda;
+    margin-top: 40px;
+}
+a{
+    color: #d0dbda;
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+}
+a:link{
+    text-decoration: none;
+    color: #d0dbda;
+}
+a:hover{
+    color: yellow;
+}

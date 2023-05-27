@@ -1,0 +1,132 @@
+
+body{
+    background-color: rgb(255, 255, 255), 255;
+    margin: 0;
+    padding: 0;
+}
+.e2{
+    width: 800px;
+    height: 60px;
+    background-color: bisque;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    display: flex;
+}
+.e3{
+    width: 200px;
+    height: 60px;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.f1{
+    color: #d0dbda;
+}
+.e4{
+    width: 800px;
+    height: 100px;
+    background-color: #7d150b;
+}
+.e5{
+    width: 800px;
+    height: 260px;
+    background-color: #7d150b;
+    align-items: center;
+    display: flex;
+}
+.e6{
+    width: 390px;
+    height: 260px;
+    background-color: antiquewhite;
+    margin-left: 35px;
+    align-items: center;
+    display: flex;
+}
+.e7{
+    width: 800px;
+    height: 100px;
+    background-color: #7d150b;
+    align-items: center;
+    display: flex;
+}
+.t1{
+    width: 185px;
+    height: 90px;
+    background-color: 7d150b;
+    color: #d0dbda;
+    margin: auto;
+    flex-wrap: wrap;
+    display: flex;
+}
+.c1{
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    display: flex;
+    margin-left: 490px;
+}
+.e8{
+    width: 800px;
+    height: 90px;
+    background-color: #7d150b;
+    align-items: center;
+    display: flex;
+}
+.e9{
+    width: 800px;
+    height: 68px;
+    background-color: #7d150b;
+    align-items: center;
+    display: flex;
+    margin: auto;
+}
+.e10{
+    width: 800px;
+    height: 240px;
+    background-color: #7d150b;
+    display: flex;
+    align-items: end;
+}
+.e11{
+    width: 60px;
+    height: 60px;
+    background-color: #7d150b;
+    margin-top: 220px;
+    margin-left: 30px;
+ }
+.e12{
+    width: 60px;
+    height: 60px;
+    background-color: #7d150b;
+    margin-top: 220px;
+    margin-left: 30px;
+}
+.e13{
+    width: 60px;
+    height: 60px;
+    background-color: #7d150b;
+    margin-top: 220px;
+    margin-left: 30px;
+}
+.e14{
+    width: 60px;
+    height: 60px;
+    background-color: #7d150b;
+    margin-top: 220px;
+    margin-left: 30px;
+}
+a{
+    color: #d0dbda;
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    color: yellow;
+}
